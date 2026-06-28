@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Eca! 👋
 
-<!--
-**ecahawane/ecahawane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems Student at Universitas Tadulako, specializing in **Data Science & Big Data** with a strong foundation in **Project Management**. I love turning raw data into strategic insights and actionable decisions.
 
-Here are some ideas to get you started:
+## 📊 Areas of Interest
+- Data Science & Machine Learning
+- Spatio-temporal Data Analytics
+- Big Data Engineering
+- IT Project Management & Governance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+- **Data & AI:** Python, SQL, Machine Learning (Regression, Random Forest, XGBoost)
+- **Web Development:** PHP, Laravel, MySQL, Bootstrap
+- **Project Management:** Agile Framework, SDLC
+
+## 📈 Featured Projects
+- **Meteorological Data Analysis:** [Coming Soon] Rainfall prediction model for Palu City using machine learning.
+- **Smart Campus Info Hub:** [Coming Soon] AI-driven centralized information hub system.
